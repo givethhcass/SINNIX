@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">SINNIX</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_dummy">Dummy</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="login_field_usuario_hint">Usuario</string>
+    <string name="login_field_contra_hint">Contraseña</string>
+    <string name="login_button_login">Iniciar sesión</string>
+    <string name="login_error_usuario_vacio">El campo de usuario no puede ir vacío</string>
+    <string name="login_error_contra_vacia">El campo de contraseña no puede ir vacío</string>
+    <string name="login_error_login">"Verifica tu Usuario ,contraseña y conexión a internet"</string>
+    <string name="login_success">Sesión iniciada correctamente!</string>
+
+    <string name="login_button_register">Registro</string>
+    <string name="login_button_vip">Vip Pass</string>
+
+    <string name="register_field_email_hint">Correo Electronico</string>
+    <string name="register_field_contra_hint">Contraseña</string>
+    <string name="register_button_register"> Registrarse </string>
+
+    <string name="title_activity_main_tabs">MainTabs</string>
+    <string name="tab_text_1">SINNIX</string>
+    <string name="tab_text_2">Agenda</string>
+    <string name="tab_text_3">Networking</string>
+    <string name="tab_text_4">Speakers</string>
+    <string name="tab_text_5">Perfil</string>
+    <string name="section_form">Hello World from section: %1$d</string>
+
+    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+
+</resources>

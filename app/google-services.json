@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "973313977193",
+    "firebase_url": "https://sinnix-d29c8.firebaseio.com",
+    "project_id": "sinnix-d29c8",
+    "storage_bucket": "sinnix-d29c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973313977193:android:eef986c50199eeab",
+        "android_client_info": {
+          "package_name": "propulsar.sinnix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973313977193-cn0f2bs11ku2hu9e5k62m3drei9vhm13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlhEzc9GJrYzLSSapI2l-Bjb1-5Ajt87g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
